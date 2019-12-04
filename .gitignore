@@ -1,0 +1,26 @@
+# Flask gitignore
+.DS_Store
+.env
+.flaskenv
+.venv
+*.pyc
+*.pyo
+env/
+env*
+dist/
+build/
+.venv/
+*.egg
+*.egg-info/
+_mailinglist
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
